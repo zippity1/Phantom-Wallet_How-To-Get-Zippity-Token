@@ -16,7 +16,7 @@ Save your secret recovery phrase securely—it’s your key to access the wallet
 
 3. Add Solana (SOL)
 
-Deposit SOL to your wallet from an exchange (e.g., Coinbase, Binance). This is needed for transactions and swapping tokens.
+Deposit SOL to your wallet from an exchange (e.g., Coinbase, Robinhood, Binance). This is needed for transactions and swapping tokens.
 
 
 4. Swap for Zippity
