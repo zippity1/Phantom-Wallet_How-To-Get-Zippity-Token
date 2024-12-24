@@ -23,7 +23,9 @@ Deposit SOL to your wallet from an exchange (e.g., Coinbase, Robinhood, Binance)
 
 Open Phantom Wallet.
 
-Go to the Swap feature, enter the Zippity token address: C2P5V6qW5vSnZL8hknWZPfRtxs3QyKRqnHLVQt4qpump - confirm on Solscan > https://solscan.io/token/C2P5V6qW5vSnZL8hknWZPfRtxs3QyKRqnHLVQt4qpump
+Go to the Swap feature, enter the Zippity token address: C2P5V6qW5vSnZL8hknWZPfRtxs3QyKRqnHLVQt4qpump  
+
+Confirm token address on Solscan > https://solscan.io/token/C2P5V6qW5vSnZL8hknWZPfRtxs3QyKRqnHLVQt4qpump
 
 Select the amount and confirm the transaction.
 
