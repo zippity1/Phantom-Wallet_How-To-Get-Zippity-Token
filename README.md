@@ -33,3 +33,6 @@ Select the amount and confirm the transaction.
 ***Trusted Instructional Source
 
 Check Phantom's official guide: https://help.phantom.app
+
+*** How to Set Up Phantom Wallet 
+https://youtu.be/1xm-HV8u0PA?si=YEtJjJQX8gJB60Re
