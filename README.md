@@ -1,5 +1,7 @@
 How to Set Up a Phantom Wallet and Trade Zippity
 
+Token Address: C2P5V6qW5vSnZL8hknWZPfRtxs3QyKRqnHLVQt4qpump
+
 1. Download the Phantom Wallet
 
 Go to the official site: https://phantom.app.
