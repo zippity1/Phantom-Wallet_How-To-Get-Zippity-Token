@@ -29,10 +29,10 @@ Go to the Swap feature, enter the Zippity Token Address: C2P5V6qW5vSnZL8hknWZPfR
 
 Select the amount and confirm the transaction.
 
-***You can confirm token address on Solscan > https://solscan.io/token/C2P5V6qW5vSnZL8hknWZPfRtxs3QyKRqnHLVQt4qpump
+## Confirm Token
+Confirm token address on Solscan > https://solscan.io/token/C2P5V6qW5vSnZL8hknWZPfRtxs3QyKRqnHLVQt4qpump
 
-***Trusted Instructional Source
-
+## Phantom Wallet Trusted Instructional Source 
 Check Phantom's official guide: https://help.phantom.app
 
 *** How to Set Up Phantom Wallet 
