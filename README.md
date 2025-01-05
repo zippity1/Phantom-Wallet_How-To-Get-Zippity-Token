@@ -28,9 +28,6 @@ Open Phantom Wallet.
 Go to the Swap feature, enter the Zippity Token Address: 
 
 New Solana token address coming soon! No worries about the old address—there's no complicated migration involved. It's a simple transfer, and you're in 100% control. The new address will be updated here. Stay tuned!"
-  
-
-Select the amount and confirm the transaction.
 
 ## Confirm Token
 
