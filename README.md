@@ -1,6 +1,6 @@
 ## How to Set Up a Phantom Wallet and Trade Zippity
 
-Token Address: C2P5V6qW5vSnZL8hknWZPfRtxs3QyKRqnHLVQt4qpump
+Token Address: Hb9JJ1JrkkAYdbWChj2ceqHHAbFFFunSWJNMPxsC8eou
 
 1. Download the Phantom Wallet
 
@@ -30,7 +30,7 @@ Go to the Swap feature, enter the Zippity Token Address:
 New Solana token address coming soon! No worries about the old address—there's no complicated migration involved. It's a simple transfer, and you're in 100% control. The new address will be updated here. Stay tuned!"
 
 ## Confirm Token
-
+https://solscan.io/token/Hb9JJ1JrkkAYdbWChj2ceqHHAbFFFunSWJNMPxsC8eou
 
 ## Phantom Wallet Trusted Instructional Source 
 Check Phantom's official guide: https://help.phantom.app
